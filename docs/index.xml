@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAC4EU Academy Codebook course Documentation</title>
+    <link>/index.html</link>
+    <description>Recent content on VAC4EU Academy Codebook course Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_index.en</title>
+      <link>/step_1/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_1/index.html</guid>
+      <description>D3_personscontains the cleaned version of PERSONS, where birth date and death date are reconstituted as dates
+D3_output_spells_categorycontains the spells exited from CreateSpells, i.e., all the continuous spells of observation period of each person, stratified per op_meaning. op_meaning is by default the same for all observation periods, and is set in 05_subpopulations_restricting_meanings for those data sources where the analysis is conducted on subpopulations having different sets of data banks
+D3_cleaned_spellsD3_conceptsetdatasetthese are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms.</description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_2/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_2/index.html</guid>
+      <description>D3_selection_criteria_from_PERSONS_to_source_populationD4_source_populationD5_Flowchart_exclusion_criteria </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_3/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_3/index.html</guid>
+      <description>D3_all_outcomesAll outcomes recorded for each person in the study population with date, during the study period
+D3_TD_allD3_cohort_expunexp </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_4/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_4/index.html</guid>
+      <description>D4_persontimePersontime and number of cases calculated by grouping for a specific strata of ageband and sex​
+ </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_5/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_5/index.html</guid>
+      <description>D5_persontime_IRs </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_6/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_6/index.html</guid>
+      <description>D5_Table_1_Attrition_TableD5_Table_2_Cohort_characteristics_expunexpD5_Table_3_Covariates_expunexpD5_Table_4_IR </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_7/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_7/index.html</guid>
+      <description>D5_Masked_Table_1_Attrition_TableD5_Masked_Table_2_Cohort_characteristics_expunexpD5_Masked_Table_3_Covariates_expunexpD5_Masked_Table_4_IR </description>
+    </item>
+    <item>
+      <title>_index.en</title>
+      <link>/step_8/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_8/index.html</guid>
+      <description>D6_Table_1_Attrition_Table_MaskedD6_Table_2_Cohort_characteristics_expunexp_MaskedD6_Table_3_Covariates_expunexp_MaskedD6_Table_4_IR_Masked </description>
+    </item>
+  </channel>
+</rss>

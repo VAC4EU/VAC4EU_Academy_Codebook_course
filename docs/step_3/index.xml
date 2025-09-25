@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_index.en on VAC4EU Academy Codebook course Documentation</title>
+    <link>/step_3/index.html</link>
+    <description>Recent content in _index.en on VAC4EU Academy Codebook course Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="/step_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D3_all_outcomes</title>
+      <link>/step_3/d3_all_outcomes/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_all_outcomes/index.html</guid>
+      <description>MetadataData ModelParametersExample{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;medatata_name&#34;:[&#34;Name of the dataset&#34;,&#34;Content of the dataset&#34;,&#34;Unit of observation&#34;,&#34;Dataset where the list of UoOs is fully listed and with 1 record per UoO&#34;,&#34;How many observations per UoO&#34;,&#34;NxUoO​&#34;,&#34;Variables capturing the UoO&#34;,&#34;Primary key&#34;,&#34;Parameters&#34;,null,null,null,null,null,null,null,null,null,null,null],&#34;metadata_content&#34;:[&#34;D3_all_outcomes&#34;,&#34;All outcomes recorded for each person in the study population with date, during the study period&#34;,&#34;A pair composed by a person in the study population and an outcome ​&#34;</description>
+    </item>
+    <item>
+      <title>D3_TD_all</title>
+      <link>/step_3/d3_td_all/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_td_all/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>D3_cohort_expunexp</title>
+      <link>/step_3/d3_cohort_expunexp/index.html</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/step_3/d3_cohort_expunexp/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
