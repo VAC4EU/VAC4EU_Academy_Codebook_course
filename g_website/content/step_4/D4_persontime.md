@@ -3,7 +3,7 @@ weight: 1
 name_excel: "D4_persontime.xlsx"
 description: "Persontime and number of cases  calculated by grouping for a specific strata of ageband and sex​"
 slug: "D4_persontime"
-datetime: 1.7587851e+09
+datetime: 1.7587874e+09
 title: D4_persontime
 author: ''
 date: '2025-09-25'

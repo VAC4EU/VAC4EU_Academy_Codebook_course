@@ -3,7 +3,7 @@ weight: 4
 name_excel: "D3_conceptsetdataset.xlsx"
 description: "these are multiple datasets, one per each conceptset, which is a value in the list c(conceptsets_exact_matching, conceptsets_children_matching), set in 07_algorithms. Each conceptset dataset is named after the conceptset. Each conceptset is associated to a list of codes. The dataset is obtained by retrieving records from the CDM bearing a code that match one of the codes in the codelist. The matching can be exact (for the conceptsets in conceptsets_exact_matching) or per ascendant (for conceptsets in conceptsets_children_matching) . Records are retrieved from the EVENTS table, but also from other tables which may bear a record, such as PROCEDURES or VACCINES"
 slug: "D3_conceptsetdataset"
-datetime: 1.7587851e+09
+datetime: 1.7587874e+09
 title: D3_conceptsetdataset
 author: ''
 date: '2025-09-25'

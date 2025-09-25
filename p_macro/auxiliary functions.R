@@ -249,7 +249,7 @@ populate_attrs_fd_roel <- function(path, direction, arrows_style, steps_style, d
                      # TODO add here complete link
                      SLUG = dplyr::if_else(!is.na(SLUG), SLUG, label),
                      SLUG = dplyr::if_else(only_input, NA, paste0(base_link, "/step_", level / 2,
-                                                                  "/", tolower(SLUG)))) %>%
+                                                                  "/", SLUG))) %>%
     dplyr::rename(link = SLUG) %>%
     dplyr::distinct()
   
